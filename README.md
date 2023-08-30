@@ -1,11 +1,11 @@
 **Website Portofolio Pribadi - README**
 
-![Screenshot 2023-08-19 122927](https://github.com/fifovalle/PORTOFOLIO-SEDERHANA/assets/90078068/9f4f6174-6f05-4873-b129-10a7f602ddd6)
-![Screenshot 2023-08-19 122938](https://github.com/fifovalle/PORTOFOLIO-SEDERHANA/assets/90078068/9f3f0219-fce1-458b-b1ca-dfdacd688184)
-![Screenshot 2023-08-19 122948](https://github.com/fifovalle/PORTOFOLIO-SEDERHANA/assets/90078068/cfaad570-d7f1-4e86-8d63-8c7fe0121267)
-![Screenshot 2023-08-19 123003](https://github.com/fifovalle/PORTOFOLIO-SEDERHANA/assets/90078068/b5151643-0c78-4e28-8f94-22ffd7c02de6)
-![Screenshot 2023-08-19 123014](https://github.com/fifovalle/PORTOFOLIO-SEDERHANA/assets/90078068/5c579404-fb6f-4a4c-8e72-3a64d64419db)
-![Screenshot 2023-08-19 123022](https://github.com/fifovalle/PORTOFOLIO-SEDERHANA/assets/90078068/5d4512b2-e9a7-4cec-8f48-2f8d70ccbd0e)
+![Screenshot 2023-08-30 133640](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/69d7a7f7-4295-4ff1-8ebb-01ab11a28143)
+![Screenshot 2023-08-30 133651](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/a17d0897-1278-4e90-9403-59da60896ca2)
+![Screenshot 2023-08-30 133707](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/0b37f2dd-6ae0-40f1-8570-e10f007e7c9b)
+![Screenshot 2023-08-30 133716](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/933ced45-d721-4437-bc5a-4d73bac06ece)
+![Screenshot 2023-08-30 133728](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/b270d03a-b110-4d10-b4dd-be513df7c61c)
+![Screenshot 2023-08-30 133736](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/9c59484e-2d8e-4952-b8b9-2e3baf9b8ea3)
 
 Selamat datang di Website Portofolio Pribadi saya di GitHub! 🚀
 
