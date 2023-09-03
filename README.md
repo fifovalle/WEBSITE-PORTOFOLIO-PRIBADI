@@ -22,6 +22,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 ## 🛠️ Keterampilan
 
 - Bahasa Pemrograman: JavaScript.
+- Alat Pengembangan: Visual Studio Code, Git
 - Pengembangan Web: HTML, CSS.
 
 ## 📬 Kontak
