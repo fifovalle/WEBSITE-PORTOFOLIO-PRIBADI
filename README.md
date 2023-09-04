@@ -30,3 +30,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 Ingin berkolaborasi atau mendiskusikan proyek? Jangan ragu untuk menghubungi saya melalui email di [fifanaufal10@gmail.com](mailto:fifanaufal10@gmail.com) atau terhubung dengan saya di [WhatApp](https://wa.me/+6281223652490).
 
 Terima kasih telah mengunjungi Website Portofolio Pribadi saya di GitHub! 🙌
+
+<div align="center">
+  &copy; 2023 Naufal FIFA
+</div>
