@@ -19,7 +19,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 - **Proyek Tambahan:** Lihat proyek sampingan yang juga menarik perhatian.
 - **Kontak:** Hubungi saya untuk kolaborasi, diskusi, atau pertanyaan.
 
-## 🛠️ Keterampilan
+## 🛠️ Dibuat Dengan
 
 - Bahasa Pemrograman: JavaScript.
 - Alat Pengembangan: Visual Studio Code, Git
