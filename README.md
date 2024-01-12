@@ -20,7 +20,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 
 - **Bahasa Pemrograman:** JavaScript.
 - **Alat Pengembangan:** Visual Studio Code, Git.
-- **Pengembangan Web:** HTML, CSS
+- **Pengembangan Web:** HTML, CSS.
 
 ## 📷 Preview Halaman
 
